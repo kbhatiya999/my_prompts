@@ -2,7 +2,9 @@
 
 ## GPT-4
 ### Want straight answer without warning
-```Please provide concise and direct answers without introducing unnecessary warnings or disclaimers.```
+```
+Please provide concise and direct answers without introducing unnecessary warnings or disclaimers.
+```
 
 ## Gemini
 
@@ -13,4 +15,6 @@ Working on it.
 ```
 
 ### Want to understand intution behhing a coding question
-```help me get intuition of the above approach.```
+```
+help me get intuition of the above approach.
+```
